@@ -2,6 +2,8 @@
 
 `~/.gitconfig`に追記
 
+```conf
 [include]
 	path = ~/.dotfiles/git/alias.conf
     path = ~/.dotfiles/git/util.conf
+```
